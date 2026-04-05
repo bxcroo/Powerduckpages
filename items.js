@@ -12,16 +12,6 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    slug: "that-month-i-lost-to-lonesome-dove",
-    title: "That Month I Lost to Lonesome Dove",
-    category: "",
-    description: "Some books you read. Others devour you whole. I just emerged from a month-long journey through Larry McMurtry's 945-page masterpiece, and I'm not entirely sure what happened to me. Between the dust storms and the heartbreak, somewhere around page 400, I stopped being a casual reader and became something closer to a witness.",
-    image: "images/generated/that-month-i-lost-to-lonesome-dove-013b501c.webp",
-    buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=that-month-i-lost-to-lonesome-dove",
-    detailLabel: "More from me"
-  },
-  {
     title: "Editor Publish Smoke Test",
     category: "Tool",
     description: "This is a smoke test blurb.",
