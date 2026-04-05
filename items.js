@@ -12,15 +12,6 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    title: "Editor Publish Smoke Test",
-    category: "Tool",
-    description: "This is a smoke test blurb.",
-    image: "",
-    buttonLabel: "Go and See",
-    detailUrl: "editor-publish-smoke-test.html",
-    detailLabel: "More from me"
-  },
-  {
     title: "The Pond",
     category: "",
     description: "The Pond is a real-time feed of what the world is paying attention to right now — derived from global search activity rather than editorial selection.\nUnder the hood, it pulls trending topic data from Google's RSS feeds across multiple regions, merges and deduplicates them, then uses automated signal processing to read the associated news headlines and distil each trend into a single plain-English statement of what actually happened. Results are fingerprinted and cached — the processing only runs when the underlying signal changes, keeping it efficient.\nNo editors. No algorithm deciding what's important. Just what people are actually searching for, and what caused it. It powers the ticker down below.",
