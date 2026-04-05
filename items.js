@@ -1,10 +1,10 @@
 window.POWERDUCK_ITEMS = [
   {
     slug: "that-month-i-lost-to-lonesome-dove",
-    title: "That Month I Lost to Lonesome Dove",
-    category: "",
-    description: "Some books you read. Others devour you whole. I just emerged from a month-long journey through Larry McMurtry's 945-page masterpiece, and I'm not entirely sure what happened to me. Between the dust storms and the heartbreak, somewhere around page 400, I stopped being a casual reader and became something closer to a witness.",
-    image: "images/generated/that-month-i-lost-to-lonesome-dove-9692859b.webp",
+    title: "Lonesome Dove",
+    category: "Book",
+    description: "Some books you read. Others devour you whole. I just emerged from a month-long journey through Larry McMurtry's 900 page masterpiece, and I'm not entirely sure what happened to me. Between the dust storms and the heartbreak, somewhere around page 400, I stopped being a casual reader and became something closer to a witness.",
+    image: "images/generated/that-month-i-lost-to-lonesome-dove-22962614.webp",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
