@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "epomaker-ek21-the-numpad-that-finally-gets-personal-space",
-    title: "Epomaker EK21: The Numpad That Finally Gets Personal Space",
-    category: "",
-    description: "The eternal struggle of full-size keyboard owners: you need that numpad for work, but it turns your mouse into a bumper car every time you try to game. The Epomaker EK21 is a standalone numpad that understands personal space – slide it away for gaming, pull it back for number crunching. Sometimes the best solutions are the obvious ones that nobody bothered to execute properly.",
-    image: "images/generated/epomaker-ek21-the-numpad-that-finally-gets-personal-space-3a002407.png",
+    slug: "cachyos-the-linux-desktop-that-finally-sticks",
+    title: "CachyOS: The Linux Desktop That Finally Sticks",
+    category: "Software",
+    description: "Every Linux convert has that story—the great migration that inevitably ends in crawling back to Windows when games won't cooperate or performance crumbles. CachyOS feels different, though. Built on Arch but laser-focused on gaming performance, it ships with kernel patches and optimizations that address Linux desktop's biggest weakness: those thousand small frictions that pile up into frustration.",
+    image: "images/generated/cachyos-the-linux-desktop-that-finally-sticks-8c99eb7d.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=epomaker-ek21-the-numpad-that-finally-gets-personal-space",
+    detailUrl: "post.html?slug=cachyos-the-linux-desktop-that-finally-sticks",
     detailLabel: "More from me"
   },
   {
