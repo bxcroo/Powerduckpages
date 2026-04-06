@@ -4,7 +4,7 @@ window.POWERDUCK_ITEMS = [
     title: "Lonesome Dove",
     category: "Book",
     description: "Larry McMurtry's Pulitzer Prize-winning novel transformed the dusty Western genre into something profound and heartbreaking. Following aging Texas Rangers Gus McCrae and Woodrow Call as they drive cattle from the Rio Grande to Montana, this massive story captures the end of the frontier with unflinching honesty. It's a meditation on friendship, mortality, and the brutal poetry of the American West that spawned one of television's greatest miniseries.",
-    image: "images/generated/that-month-i-lost-to-lonesome-dove-c24ffaad.webp",
+    image: "images/generated/that-month-i-lost-to-lonesome-dove-898c2299.webp",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
