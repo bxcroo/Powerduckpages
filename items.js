@@ -209,9 +209,14 @@ window.POWERDUCK_ITEMS = [
     title: "Gear - Snowsky Echo Mini",
     category: "",
     description: "Remember actually listening to your music rather than just hearing it? Well with this distraction free little player you can do just that. The sound quality is actually incredible. Grab one cheaply from your choice of dubious online retailer. I used Aliexpress.",
-    image: "images/EchoMini.jpeg",
+    image: "images/generated/gear-snowsky-echo-mini-9193e9e6.jpeg",
     url: "https://www.fiio.com/echomini",
-    buttonLabel: "Go and See"
+    buttonLabel: "Go and See",
+    slug: "gear-snowsky-echo-mini",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    detailUrl: "post.html?slug=gear-snowsky-echo-mini",
+    detailLabel: "More from me"
   },
   {
     title: "Gear - GK Kunten In Ear Monitors",
