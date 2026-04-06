@@ -4,6 +4,18 @@ window.POWERDUCK_ITEMS = [
     title: "CachyOS: The Linux Distribution That Finally Gets Gaming Right",
     category: "Software",
     description: "After countless failed migrations from Windows to Linux, CachyOS represents something genuinely different. Built on Arch but fine-tuned specifically for gaming and desktop responsiveness, it ships with kernel patches and optimizations that address Linux's biggest weakness: the thousand small frictions that accumulate into Windows nostalgia. Three weeks in, the Windows partition sits untouched—a personal record for any Linux experiment.",
+    image: "images/generated/cachyos-the-linux-distribution-that-finally-gets-gaming-right-19d11851.png",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=cachyos-the-linux-distribution-that-finally-gets-gaming-right",
+    detailLabel: "More from me"
+  },
+  {
+    slug: "cachyos-the-linux-distribution-that-finally-gets-gaming-right",
+    title: "CachyOS: The Linux Distribution That Finally Gets Gaming Right",
+    category: "Software",
+    description: "After countless failed migrations from Windows to Linux, CachyOS represents something genuinely different. Built on Arch but fine-tuned specifically for gaming and desktop responsiveness, it ships with kernel patches and optimizations that address Linux's biggest weakness: the thousand small frictions that accumulate into Windows nostalgia. Three weeks in, the Windows partition sits untouched—a personal record for any Linux experiment.",
     image: "images/generated/cachyos-the-linux-distribution-that-finally-gets-gaming-right-7807ac8e.png",
     imageAspect: "landscape",
     imageFit: "contain",
