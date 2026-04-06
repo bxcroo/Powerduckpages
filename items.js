@@ -77,11 +77,17 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    title: "Book - Dungeon Crawler Carl",
-    category: "",
+    title: "Dungeon Crawler Carl",
+    category: "Book",
     description: "What a banger. Simple and fun. Earth is destroyed by aliens and the surviving humans are forced into a brutal intergalactic reality TV show.The planet becomes a massive dungeon filled with traps, monsters, and absurd challenges that contestants must survive while the galaxy watches for entertainment. Carl, a former Coast Guard vet, enters the dungeon with his ex-girlfriend’s show cat, Princess Donut. Together they try to survive each level, dealing with bizarre enemies, magical items, and deadly game mechanics while millions of alien viewers treat their suffering like a spectacle.",
-    image: "images/dcc.png",
-    url: "https://www.goodreads.com/book/show/56791389-dungeon-crawler-carl"
+    image: "images/generated/book-dungeon-crawler-carl-b3fe6ad3.png",
+    url: "https://www.goodreads.com/book/show/56791389-dungeon-crawler-carl",
+    slug: "book-dungeon-crawler-carl",
+    imageAspect: "landscape",
+    imageFit: "cover",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=book-dungeon-crawler-carl",
+    detailLabel: "More from me"
   },
   {
     title: "Gear - Lodge Cast Iron",
