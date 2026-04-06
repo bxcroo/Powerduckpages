@@ -93,8 +93,14 @@ window.POWERDUCK_ITEMS = [
     title: "Gear - Lodge Cast Iron",
     category: "",
     description: "Such a classic. Buy it for life. Doesn't matter what you choose from Lodges line, it's going to outlast you. Cast iron does need a little extra love compared to the nonstick stuff but just keep using it and wiping it out with a paper towel. A good cast iron pan retains heat, works on any hob and is admirably non stick when you get it up to temp. Learn how to use it and you'll never look back.",
-    image: "images/lodge.png",
-    url: "https://www.lodgecastiron.com/"
+    image: "images/generated/gear-lodge-cast-iron-446a2c2d.png",
+    url: "https://www.lodgecastiron.com/",
+    slug: "gear-lodge-cast-iron",
+    imageAspect: "landscape",
+    imageFit: "cover",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=gear-lodge-cast-iron",
+    detailLabel: "More from me"
   },
   {
     title: "Anime - Takopi's Original Sin",
