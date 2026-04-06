@@ -67,8 +67,14 @@ window.POWERDUCK_ITEMS = [
     title: "Gear - DIY Eptaora Flip Digit Clock",
     category: "",
     description: "Tell me you don't like seven segmented digital displays. This thing is awesome. It's blending admirable, but simple mechanics and great function. It's an art piece as much as it's a clock.",
-    image: "images/eptaora.png",
-    url: "https://www.kickstarter.com/projects/mectolab/eptaora-an-electromechanical-clock"
+    image: "images/generated/gear-diy-eptaora-flip-digit-clock-128ec3c3.webp",
+    url: "https://www.kickstarter.com/projects/mectolab/eptaora-an-electromechanical-clock",
+    slug: "gear-diy-eptaora-flip-digit-clock",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=gear-diy-eptaora-flip-digit-clock",
+    detailLabel: "More from me"
   },
   {
     title: "Book - Dungeon Crawler Carl",
