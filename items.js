@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "aula-f75-a-thocky-budget-beast-with-some-compromises",
-    title: "Aula F75: A Thocky Budget Beast with Some Compromises",
+    slug: "epomaker-ek21-the-numpad-that-knows-its-place",
+    title: "Epomaker EK21: The Numpad That Knows Its Place",
     category: "Gear",
-    description: "Sometimes the best discoveries come from brands you've never heard of. The Aula F75 surprised me with its rich, resonant sound signature, heft and general feel that punches way above its price point. Sure, it has quirks—non-shine-through keycaps that make the backlighting feel pointless, and software that requires some Linux (Wine) wizardry to run properly. But when you're typing away and hearing those beautiful thocks, those compromises start to feel pretty minor.",
-    image: "images/generated/aula-f75-a-thocky-budget-beast-with-some-compromises-3c9509fc.png",
+    description: "Tired of your mouse crashing into your keyboard's numpad like a drunk driver hitting a fire hydrant? Along with a separate keyboard, the Epomaker EK21 solves this age old problem by being a completely separate numpad that sits wherever you want it. Park it to the side during gaming sessions, pull it back when you need to crunch numbers. It's the kind of simple solution that makes you wonder why more keyboards don't think this way.",
+    image: "images/generated/epomaker-ek21-the-numpad-that-knows-its-place-575a9cd7.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=aula-f75-a-thocky-budget-beast-with-some-compromises",
+    detailUrl: "post.html?slug=epomaker-ek21-the-numpad-that-knows-its-place",
     detailLabel: "More from me"
   },
   {
