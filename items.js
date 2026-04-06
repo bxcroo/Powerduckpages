@@ -167,12 +167,17 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    title: "Book - Lonesome Dove",
-    category: "",
+    title: "Lonesome Dove",
+    category: "Book",
     description: "I've picked this up with the intention of getting back into reading more. It's an absolute tome of a novel at around a thousand pages but I'm enjoying it so far. I might have to come back and leave a review when I'm done... eventually...",
-    image: "images/IMG_0205.jpeg",
+    image: "images/generated/book-lonesome-dove-0ef76aaf.jpeg",
     url: "https://www.goodreads.com/book/show/256008.Lonesome_Dove",
-    buttonLabel: "Go and See"
+    buttonLabel: "Go and See",
+    slug: "book-lonesome-dove",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    detailUrl: "post.html?slug=book-lonesome-dove",
+    detailLabel: "More from me"
   },
   {
     title: "Gear - Olight i3e EOS AAA flashlight",
