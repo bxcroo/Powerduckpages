@@ -105,8 +105,8 @@ window.POWERDUCK_ITEMS = [
   {
     title: "Takopi's Original Sin",
     category: "Anime",
-    description: "What starts as an innocent-looking story about a friendly alien octopus quickly becomes one of the most psychologically devastating anime experiences in recent memory. Takopi's Original Sin uses its deceptively cheerful art style as a Trojan horse for themes so dark and heavy that you'll question how it ever made it to air. This isn't your typical feel good alien friendship stor... It's a masterclass in emotional manipulation that will leave you staring at the ceiling at 3 AM.",
-    image: "images/generated/anime-takopis-original-sin-a4288371.png",
+    description: "What starts as an innocent-looking story about a friendly alien octopus quickly becomes one of the most psychologically devastating anime experiences in recent memory. Takopi's Original Sin uses its deceptively cheerful art style as a Trojan horse for themes so dark and heavy that you'll question how it ever made it to air. This isn't your typical feel good alien friendship story... It's a masterclass in emotional manipulation that will leave you staring at the ceiling at 3 AM.",
+    image: "images/generated/anime-takopis-original-sin-a0ed524d.png",
     url: "https://www.imdb.com/title/tt36988358/",
     slug: "anime-takopis-original-sin",
     imageAspect: "landscape",
