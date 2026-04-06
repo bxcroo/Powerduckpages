@@ -1,5 +1,18 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "the-soviet-sharlotka-communisms-greatest-gift-to-cake",
+    title: "The Soviet Sharlotka: Communism's Greatest Gift to Cake",
+    category: "Recipe",
+    description: "Forget everything you know about fancy desserts. Sharlotka is Soviet engineering applied to baking: six ingredients, zero pretense, maximum deliciousness. This isn't just an apple cake—it's a masterclass in making magic from what's on hand. Eggs, sugar, flour, apples. That's it. That's the revolution.\n\nWhile Western cakes pile on butter, cream, and complications, Sharlotka achieves greatness through restraint. The beaten eggs do all the heavy lifting, creating a texture that's somehow both airy and substantial. The apples don't just sit there looking pretty—they become part of the structure, crowning the top like little golden domes.",
+    image: "images/generated/the-soviet-sharlotka-communisms-greatest-gift-to-cake-3c576918.jpg",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    url: "https://natashaskitchen.com/apple-cake-sharlotka-video/",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=the-soviet-sharlotka-communisms-greatest-gift-to-cake",
+    detailLabel: "More from me"
+  },
+  {
     slug: "the-soviet-sharlotka-far-greater-than-the-sum-of-its-parts",
     title: "The Soviet Sharlotka. Far greater than the sum of its parts",
     category: "Recipe",
