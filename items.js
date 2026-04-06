@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "epomaker-ek21-the-numpad-that-actually-gets-it",
+    title: "Epomaker EK21: The Numpad That Actually Gets It",
+    category: "Gear",
+    description: "Every full-size keyboard owner knows the pain: you need that numpad for spreadsheets, but it turns your gaming mouse into a pinball. The Epomaker EK21 cuts the cord on this ancient problem, giving you a standalone numpad that slides away when it's time to frag and slides back when it's time to crunch numbers. Simple? Yes. Revolutionary? Surprisingly so.",
+    image: "images/generated/epomaker-ek21-the-numpad-that-actually-gets-it-664c81d3.png",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=epomaker-ek21-the-numpad-that-actually-gets-it",
+    detailLabel: "More from me"
+  },
+  {
     slug: "cachyos-the-linux-distribution-that-finally-gets-gaming-right",
     title: "CachyOS: The Linux Distribution That Finally Gets Gaming Right",
     category: "Software",
