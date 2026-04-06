@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "cachyos-the-linux-gaming-distro-that-finally-breaks-the-windows-habit",
-    title: "CachyOS: The Linux Gaming Distro That Finally Breaks the Windows Habit",
-    category: "Software",
-    description: "We've all been there—making the great migration from Windows to Linux for gaming, only to crawl back when performance tanks or compatibility fails. CachyOS breaks that cycle. Built on Arch but fine-tuned specifically for gaming and desktop responsiveness, it ships with kernel patches and optimizations that address Linux's biggest desktop weakness: not philosophy, but the thousand small frictions that add up to frustration. Three weeks in, the Windows partition sits untouched—and that's never happened before.",
-    image: "images/generated/cachyos-the-linux-gaming-distro-that-finally-breaks-the-windows-habit-353fea0b.png",
+    slug: "aula-f75-keyboard-review-budget-thock-champion",
+    title: "Aula F75 Keyboard Review: Budget Thock Champion",
+    category: "Gear",
+    description: "The Aula F75 surprised me in the best way possible—it's a budget keyboard that actually sounds and feels expensive. Every keystroke delivers deep, satisfying thocks that make typing feel intentional and rewarding. Sure, it's not perfect. The backlighting is basically useless through those solid keycaps, and you'll need to wrestle with Wine if you want the software running on Linux. But when you're getting premium acoustics and that perfect 75% layout for a fraction of what the big names charge, those compromises start feeling pretty reasonable.",
+    image: "images/generated/aula-f75-keyboard-review-budget-thock-champion-06e75e75.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=cachyos-the-linux-gaming-distro-that-finally-breaks-the-windows-habit",
+    detailUrl: "post.html?slug=aula-f75-keyboard-review-budget-thock-champion",
     detailLabel: "More from me"
   },
   {
