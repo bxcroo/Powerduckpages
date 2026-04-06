@@ -54,11 +54,14 @@ window.POWERDUCK_ITEMS = [
     title: "Gear - Kobo Clara BW",
     category: "",
     description: "Amazon Kindle? Nah. Kobo Clara! Install KoReader on it for all the untethered goodness you could want. I’ve installed a file manage plugin so I can send ePub format books straight to it from my phone over Wifi. Custom screensavers and one touch immediate return to your last reading position. Oh and if you have multiple eReaders you can sync them with KoReader so they all resume from the same point! Keen for my Xteink X4 to turn up for more convenient reading on the go!",
-    image: "images/IMG_1595.jpeg",
+    image: "images/generated/gear-kobo-clara-bw-62641fe8.png",
     url: "https://us.kobobooks.com/products/kobo-clara-bw?utm_source=Kobo&utm_medium=TopNav&utm_campaign=ClaraBW",
     buttonLabel: "Go and See",
-    detailUrl: "gear-kobo-clara-bw.html",
-    detailLabel: "More from me"
+    detailUrl: "post.html?slug=gear-kobo-clara-bw",
+    detailLabel: "More from me",
+    slug: "gear-kobo-clara-bw",
+    imageAspect: "landscape",
+    imageFit: "contain"
   },
   {
     title: "Gear - DIY Eptaora Flip Digit Clock",
