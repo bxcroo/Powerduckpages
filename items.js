@@ -232,10 +232,10 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    title: "Gear - Xteink X4",
-    category: "",
+    title: "Xteink X4",
+    category: "Gear",
     description: "Don't read as much as you would like to? Well, this little thing can help. Small enough to vanish in your pocket with none of the distractions or battery life woes you have with you phone. What a cheap and cheerful little on the go device. Whip it out whenever you're waiting and enjoy your time rather than being numbed out or made angry by whatever slop the algorithms are trying to serve you today. Bonus points for installing KoReader and syncing your reading across multiple devices. I've got my comfy at home Kobo and my out and about Xteink X4.",
-    image: "images/generated/gear-xteink-x4-08f37dff.jpg",
+    image: "images/generated/gear-xteink-x4-66baed0d.jpg",
     url: "https://www.xteink.com/products/xteink-x4?variant=46914764144881",
     buttonLabel: "Go and See",
     slug: "gear-xteink-x4",
