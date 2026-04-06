@@ -206,10 +206,10 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    title: "Gear - Snowsky Echo Mini",
-    category: "",
+    title: "Snowsky Echo Mini",
+    category: "Gear",
     description: "Remember actually listening to your music rather than just hearing it? Well with this distraction free little player you can do just that. The sound quality is actually incredible. Grab one cheaply from your choice of dubious online retailer. I used Aliexpress.",
-    image: "images/generated/gear-snowsky-echo-mini-9193e9e6.jpeg",
+    image: "images/generated/gear-snowsky-echo-mini-33403ba5.jpeg",
     url: "https://www.fiio.com/echomini",
     buttonLabel: "Go and See",
     slug: "gear-snowsky-echo-mini",
