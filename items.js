@@ -154,12 +154,17 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    title: "Gear - Jean Paul Gaultier Le Male Elixir",
-    category: "",
+    title: "Jean Paul Gaultier Le Male Elixir",
+    category: "Gear",
     description: "I don't know if I'd call this my signature fragrance but I do go through quite a lot of it! I love it, but be careful with this stuff. People will smell you before they see you coming! (And they'll usually love it too)",
-    image: "images/IMG_1597.jpeg",
+    image: "images/generated/gear-jean-paul-gaultier-le-male-elixir-b42e88ee.jpeg",
     url: "https://www.fragrantica.com/perfume/Jean-Paul-Gaultier/Le-Male-Elixir-81642.html",
-    buttonLabel: "Go and See"
+    buttonLabel: "Go and See",
+    slug: "gear-jean-paul-gaultier-le-male-elixir",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    detailUrl: "post.html?slug=gear-jean-paul-gaultier-le-male-elixir",
+    detailLabel: "More from me"
   },
   {
     title: "Book - Lonesome Dove",
