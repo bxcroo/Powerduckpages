@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "aula-f75-keyboard-review-budget-thock-champion",
-    title: "Aula F75 Keyboard Review: Budget Thock Champion",
-    category: "Gear",
-    description: "The Aula F75 surprised me in the best way possible—it's a budget keyboard that actually sounds and feels expensive. Every keystroke delivers deep, satisfying thocks that make typing feel intentional and rewarding. Sure, it's not perfect. The backlighting is basically useless through those solid keycaps, and you'll need to wrestle with Wine if you want the software running on Linux. But when you're getting premium acoustics and that perfect 75% layout for a fraction of what the big names charge, those compromises start feeling pretty reasonable.",
-    image: "images/generated/aula-f75-keyboard-review-budget-thock-champion-06e75e75.png",
+    slug: "epomaker-ek21-the-numpad-that-finally-gets-personal-space",
+    title: "Epomaker EK21: The Numpad That Finally Gets Personal Space",
+    category: "",
+    description: "The eternal struggle of full-size keyboard owners: you need that numpad for work, but it turns your mouse into a bumper car every time you try to game. The Epomaker EK21 is a standalone numpad that understands personal space – slide it away for gaming, pull it back for number crunching. Sometimes the best solutions are the obvious ones that nobody bothered to execute properly.",
+    image: "images/generated/epomaker-ek21-the-numpad-that-finally-gets-personal-space-3a002407.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=aula-f75-keyboard-review-budget-thock-champion",
+    detailUrl: "post.html?slug=epomaker-ek21-the-numpad-that-finally-gets-personal-space",
     detailLabel: "More from me"
   },
   {
