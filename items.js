@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "that-month-i-lost-to-lonesome-dove",
-    title: "Lonesome Dove",
-    category: "Book",
-    description: "Larry McMurtry's Pulitzer Prize-winning novel transformed the dusty Western genre into something profound and heartbreaking. Following aging Texas Rangers Gus McCrae and Woodrow Call as they drive cattle from the Rio Grande to Montana, this massive story captures the end of the frontier with unflinching honesty. It's a meditation on friendship, mortality, and the brutal poetry of the American West that spawned one of television's greatest miniseries.",
-    image: "images/generated/that-month-i-lost-to-lonesome-dove-898c2299.webp",
+    slug: "cachyos-the-linux-gaming-distro-that-actually-gets-it",
+    title: "CachyOS: The Linux Gaming Distro That Actually Gets It",
+    category: "Software",
+    description: "We've all been there—the eternal dance between Windows and Linux, always retreating back to Microsoft's embrace when gaming calls. But something feels different this time with CachyOS. This performance-tuned Arch derivative seems to understand what desktop Linux has been missing: the seamless gaming experience that keeps pulling us back to Windows. With kernel optimizations focused on responsiveness and gaming performance, CachyOS might just be the distro that breaks the cycle.",
+    image: "images/generated/cachyos-the-linux-gaming-distro-that-actually-gets-it-4a7e104b.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=that-month-i-lost-to-lonesome-dove",
+    detailUrl: "post.html?slug=cachyos-the-linux-gaming-distro-that-actually-gets-it",
     detailLabel: "More from me"
   },
   {
