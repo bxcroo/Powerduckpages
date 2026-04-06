@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "fifines-ampligame-d6-stream-controller-actually-gets-it-right",
+    title: "Fifine's AmpliGame D6 Stream Controller Actually Gets It Right",
+    category: "",
+    description: "Stream controllers used to be Elgato's expensive playground, but Fifine's AmpliGame D6 crashes the party with 15 customizable LCD keys, RGB lighting, and surprisingly solid software support. It's the kind of gear that makes you wonder why you were saving up for the premium option when this thing handles OBS scene switching, audio control, and workflow shortcuts without breaking your budget or your desk setup.",
+    image: "images/generated/fifines-ampligame-d6-stream-controller-actually-gets-it-right-bd88a57c.jpg",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=fifines-ampligame-d6-stream-controller-actually-gets-it-right",
+    detailLabel: "More from me"
+  },
+  {
     slug: "aula-f75-keyboard-review",
     title: "Aula F75 Keyboard Review",
     category: "",
