@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "epomaker-ek21-the-numpad-that-knows-its-place",
-    title: "Epomaker EK21: The Numpad That Knows Its Place",
-    category: "Gear",
-    description: "Tired of your mouse crashing into your keyboard's numpad like a drunk driver hitting a fire hydrant? Along with a separate keyboard, the Epomaker EK21 solves this age old problem by being a completely separate numpad that sits wherever you want it. Park it to the side during gaming sessions, pull it back when you need to crunch numbers. It's the kind of simple solution that makes you wonder why more keyboards don't think this way.",
-    image: "images/generated/epomaker-ek21-the-numpad-that-knows-its-place-575a9cd7.png",
+    slug: "cachyos-the-linux-gaming-distro-that-finally-breaks-the-windows-habit",
+    title: "CachyOS: The Linux Gaming Distro That Finally Breaks the Windows Habit",
+    category: "Software",
+    description: "We've all been there—making the great migration from Windows to Linux for gaming, only to crawl back when performance tanks or compatibility fails. CachyOS breaks that cycle. Built on Arch but fine-tuned specifically for gaming and desktop responsiveness, it ships with kernel patches and optimizations that address Linux's biggest desktop weakness: not philosophy, but the thousand small frictions that add up to frustration. Three weeks in, the Windows partition sits untouched—and that's never happened before.",
+    image: "images/generated/cachyos-the-linux-gaming-distro-that-finally-breaks-the-windows-habit-353fea0b.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=epomaker-ek21-the-numpad-that-knows-its-place",
+    detailUrl: "post.html?slug=cachyos-the-linux-gaming-distro-that-finally-breaks-the-windows-habit",
     detailLabel: "More from me"
   },
   {
