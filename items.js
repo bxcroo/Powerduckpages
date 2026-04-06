@@ -133,12 +133,17 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from Me"
   },
   {
-    title: "Video game - Caves of Qud",
-    category: "",
+    title: "Caves of Qud",
+    category: "Video game",
     description: "Caves of Qud looks simple, but that minimalism is what lets it go completely off the rails. You can give a door sentience, swap bodies with it, and then play the rest of the game as the door. You can cut a goat man’s face off, throw it at his friend, eat it, or wear it as a mask and Qud just quietly accepts it. The graphics aren’t a limitation, they’re what make all this ridiculous depth possible. Play this game.",
-    image: "images/IMG_1598.jpg",
+    image: "images/generated/video-game-caves-of-qud-0c2202f8.jpg",
     url: "https://store.steampowered.com/app/333640/Caves_of_Qud/",
-    buttonLabel: "Go and See"
+    buttonLabel: "Go and See",
+    slug: "video-game-caves-of-qud",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    detailUrl: "post.html?slug=video-game-caves-of-qud",
+    detailLabel: "More from me"
   },
   {
     title: "Lansky Knife Sharpening System",
