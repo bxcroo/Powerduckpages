@@ -105,12 +105,12 @@ window.POWERDUCK_ITEMS = [
   {
     title: "Takopi's Original Sin",
     category: "Anime",
-    description: "This is just 6 episodes and you should watch them. Don't be deceived by the cutesy little octopus thing. This show is intense.  Go in blind. \n\nThe warning at the start of the show says\n\n \"This work contains some sensitive depictions involving life and death.\nThese scenes have been visually portrayed with respect for the original story's intent and are by no means intended to encourage or promote such actions.\n\nWe hope you enjoy the bittersweet yet happy story of Takopi and the children as they face their extraordinary fate and accompany them throughout their journey.\n\n\"Takopi’s Original Sin\" Production Committee\"",
-    image: "images/generated/anime-takopis-original-sin-60a7bd32.png",
+    description: "What starts as an innocent-looking story about a friendly alien octopus quickly becomes one of the most psychologically devastating anime experiences in recent memory. Takopi's Original Sin uses its deceptively cheerful art style as a Trojan horse for themes so dark and heavy that you'll question how it ever made it to air. This isn't your typical feel good alien friendship stor... It's a masterclass in emotional manipulation that will leave you staring at the ceiling at 3 AM.",
+    image: "images/generated/anime-takopis-original-sin-1bdb87f5.png",
     url: "https://www.imdb.com/title/tt36988358/",
     slug: "anime-takopis-original-sin",
     imageAspect: "landscape",
-    imageFit: "cover",
+    imageFit: "contain",
     buttonLabel: "Go and See",
     detailUrl: "post.html?slug=anime-takopis-original-sin",
     detailLabel: "More from me"
