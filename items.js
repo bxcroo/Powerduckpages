@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "cachyos-the-linux-gaming-distro-that-actually-gets-it",
-    title: "CachyOS: The Linux Gaming Distro That Actually Gets It",
-    category: "Software",
-    description: "We've all been there—the eternal dance between Windows and Linux, always retreating back to Microsoft's embrace when gaming calls. But something feels different this time with CachyOS. This performance-tuned Arch derivative seems to understand what desktop Linux has been missing: the seamless gaming experience that keeps pulling us back to Windows. With kernel optimizations focused on responsiveness and gaming performance, CachyOS might just be the distro that breaks the cycle.",
-    image: "images/generated/cachyos-the-linux-gaming-distro-that-actually-gets-it-4a7e104b.png",
+    slug: "aula-f75-a-thocky-budget-beast-with-some-compromises",
+    title: "Aula F75: A Thocky Budget Beast with Some Compromises",
+    category: "Gear",
+    description: "Sometimes the best discoveries come from brands you've never heard of. The Aula F75 surprised me with its rich, resonant sound signature, heft and general feel that punches way above its price point. Sure, it has quirks—non-shine-through keycaps that make the backlighting feel pointless, and software that requires some Linux (Wine) wizardry to run properly. But when you're typing away and hearing those beautiful thocks, those compromises start to feel pretty minor.",
+    image: "images/generated/aula-f75-a-thocky-budget-beast-with-some-compromises-3c9509fc.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=cachyos-the-linux-gaming-distro-that-actually-gets-it",
+    detailUrl: "post.html?slug=aula-f75-a-thocky-budget-beast-with-some-compromises",
     detailLabel: "More from me"
   },
   {
