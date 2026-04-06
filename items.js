@@ -180,10 +180,10 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    title: "Gear - Olight i3e EOS AAA flashlight",
-    category: "",
+    title: "Olight i3e EOS AAA flashlight",
+    category: "Gear",
     description: "I love USB-C everything too, but you know what sucks? When the internal battery actually dies and your device is left obsolete. Or having to charge a light when you don't have power... Change out the internal AAA and you're ready to go in no time. Don't ever forget, swappable batteries still have their place!",
-    image: "images/generated/gear-olight-i3e-eos-aaa-flashlight-a75c5256.png",
+    image: "images/generated/gear-olight-i3e-eos-aaa-flashlight-037effdc.png",
     url: "https://www.olight.com/store/i3e-eos",
     buttonLabel: "Go and See",
     slug: "gear-olight-i3e-eos-aaa-flashlight",
