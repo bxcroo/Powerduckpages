@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "aula-f75-keyboard-review",
+    title: "Aula F75 Keyboard Review",
+    category: "",
+    description: "The Aula F75 proves you don't need to break the bank for satisfying keystrokes. This 75% wireless keyboard delivers deep, intentional-sounding thocks that make typing genuinely enjoyable—the kind of acoustic feedback that rivals boards costing twice as much. Sure, it has its quirks (dim backlighting, no VIA support), but when premium sound and feel come at this price point, those compromises feel worth it.",
+    image: "images/generated/aula-f75-keyboard-review-7ac1adb4.png",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=aula-f75-keyboard-review",
+    detailLabel: "More from me"
+  },
+  {
     slug: "epomaker-ek21-the-numpad-that-actually-gets-it",
     title: "Epomaker EK21: The Numpad That Actually Gets It",
     category: "Gear",
