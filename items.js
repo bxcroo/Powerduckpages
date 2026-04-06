@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "aula-f75-budget-thocks-that-actually-deliver",
-    title: "Aula F75: Budget Thocks That Actually Deliver",
-    category: "Gear",
-    description: "The Aula F75 proves that you don't need to break the bank for satisfying keyboard acoustics. This wireless 75% board delivers deep, intentional thocks that rival keyboards costing twice as much, though it comes with the expected budget compromises. Sometimes the best discoveries come from taking chances on the unknown—and this keyboard rewards that risk with genuine typing pleasure that keeps you coming back for more.",
-    image: "images/generated/aula-f75-budget-thocks-that-actually-deliver-1948aa46.png",
+    slug: "cachyos-the-linux-distribution-that-finally-gets-gaming-right",
+    title: "CachyOS: The Linux Distribution That Finally Gets Gaming Right",
+    category: "Software",
+    description: "After countless failed migrations from Windows to Linux, CachyOS represents something genuinely different. Built on Arch but fine-tuned specifically for gaming and desktop responsiveness, it ships with kernel patches and optimizations that address Linux's biggest weakness: the thousand small frictions that accumulate into Windows nostalgia. Three weeks in, the Windows partition sits untouched—a personal record for any Linux experiment.",
+    image: "images/generated/cachyos-the-linux-distribution-that-finally-gets-gaming-right-7807ac8e.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=aula-f75-budget-thocks-that-actually-deliver",
+    detailUrl: "post.html?slug=cachyos-the-linux-distribution-that-finally-gets-gaming-right",
     detailLabel: "More from me"
   },
   {
