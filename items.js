@@ -1,14 +1,14 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "cachyos-the-linux-desktop-that-finally-sticks",
-    title: "CachyOS: The Linux Desktop That Finally Sticks",
-    category: "Software",
-    description: "Every Linux convert has that story—the great migration that inevitably ends in crawling back to Windows when games won't cooperate or performance crumbles. CachyOS feels different, though. Built on Arch but laser-focused on gaming performance, it ships with kernel patches and optimizations that address Linux desktop's biggest weakness: those thousand small frictions that pile up into frustration.",
-    image: "images/generated/cachyos-the-linux-desktop-that-finally-sticks-8c99eb7d.png",
+    slug: "aula-f75-budget-thocks-that-actually-deliver",
+    title: "Aula F75: Budget Thocks That Actually Deliver",
+    category: "Gear",
+    description: "The Aula F75 proves that you don't need to break the bank for satisfying keyboard acoustics. This wireless 75% board delivers deep, intentional thocks that rival keyboards costing twice as much, though it comes with the expected budget compromises. Sometimes the best discoveries come from taking chances on the unknown—and this keyboard rewards that risk with genuine typing pleasure that keeps you coming back for more.",
+    image: "images/generated/aula-f75-budget-thocks-that-actually-deliver-1948aa46.png",
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=cachyos-the-linux-desktop-that-finally-sticks",
+    detailUrl: "post.html?slug=aula-f75-budget-thocks-that-actually-deliver",
     detailLabel: "More from me"
   },
   {
