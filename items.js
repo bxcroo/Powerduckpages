@@ -141,12 +141,17 @@ window.POWERDUCK_ITEMS = [
     buttonLabel: "Go and See"
   },
   {
-    title: "Gear - Lansky Knife Sharpening System",
-    category: "",
+    title: "Lansky Knife Sharpening System",
+    category: "Gear",
     description: "Honestly, your knives are probably blunt. More honestly, you probably can't sharpen them properly. The Lansky takes a lot of the guess work out of sharpening your knives by guiding the stones across the blade at fixed angles. Even a rookie can get a respectable edge back with one of these kits in no time! If you don't have the time to put into learning the skills to use a stone, use a Lansky. Please never use a pull through sharpener :'(",
-    image: "images/lansky.png",
+    image: "images/generated/gear-lansky-knife-sharpening-system-b24c3fe7.png",
     url: "https://lanskyuk.shop/",
-    buttonLabel: "Go and See"
+    buttonLabel: "Go and See",
+    slug: "gear-lansky-knife-sharpening-system",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    detailUrl: "post.html?slug=gear-lansky-knife-sharpening-system",
+    detailLabel: "More from me"
   },
   {
     title: "Gear - Jean Paul Gaultier Le Male Elixir",
