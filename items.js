@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "mitsubishi-e85r-air-purifier-a-sweet-escape-from-corporate-evil",
+    title: "Mitsubishi E85R Air Purifier: A Sweet Escape from Corporate Evil",
+    category: "Gear",
+    description: "After Philips spectacularly fumbled the trust game with their carcinogenic sleep apnea foam scandal, it was time to find a new air purifier that actually cares about not poisoning people. Enter the Mitsubishi E85R—a delightful little machine that cleans both the air and itself with an ingenious auto-cleaning system that'll make you wonder why every appliance doesn't work this smart.",
+    image: "images/generated/mitsubishi-e85r-air-purifier-a-sweet-escape-from-corporate-evil-4d32251b.webp",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=mitsubishi-e85r-air-purifier-a-sweet-escape-from-corporate-evil",
+    detailLabel: "More from me"
+  },
+  {
     slug: "the-soviet-sharlotka-communisms-greatest-gift-to-cake",
     title: "The Soviet Sharlotka: Communism's Greatest Gift to Cake",
     category: "Recipe",
