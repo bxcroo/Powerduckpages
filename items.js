@@ -13,18 +13,6 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    slug: "glocusent-26-led-book-light-my-dark-typing-salvation",
-    title: "Glocusent 26 LED Book Light: My Dark Typing Salvation",
-    category: "Gear",
-    description: "My Aula F75's backlight is garbage, but this humble book light has become my unexpected typing companion. No glare, just a warm glow that makes late-night typing sessions actually pleasant. Sometimes the best solutions come from the most obvious places.",
-    image: "images/generated/glocusent-26-led-book-light-my-dark-typing-salvation-ded4d5ca.jpeg",
-    imageAspect: "landscape",
-    imageFit: "contain",
-    buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=glocusent-26-led-book-light-my-dark-typing-salvation",
-    detailLabel: "More from me"
-  },
-  {
     slug: "mitsubishi-e85r-air-purifier-a-sweet-escape-from-corporate-evil",
     title: "Mitsubishi E85R Air Purifier: A Sweet Escape from Corporate Evil",
     category: "Gear",
