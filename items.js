@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "dremel-8240-the-swiss-army-knife-that-spins",
+    title: "Dremel 8240: The Swiss Army Knife That Spins",
+    category: "Gear",
+    description: "Some tools try to do everything and fail spectacularly. The Dremel 8240 tries to do everything and somehow pulls it off. This cordless rotary beast spins at 30,000 RPM and doesn't care if you need to cut, grind, polish, or carve something in the most awkward position imaginable. It's the kind of tool that makes you wonder how you ever lived without it, then makes you slightly dangerous because suddenly everything looks like it needs a little rotary attention.",
+    image: "images/generated/dremel-8240-the-swiss-army-knife-that-spins-3025722c.jpeg",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=dremel-8240-the-swiss-army-knife-that-spins",
+    detailLabel: "More from me"
+  },
+  {
     slug: "glocusent-26-led-book-light-my-dark-typing-salvation",
     title: "Glocusent 26 LED Book Light: My Dark Typing Salvation",
     category: "Gear",
