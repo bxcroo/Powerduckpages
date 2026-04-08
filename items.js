@@ -3,6 +3,18 @@ window.POWERDUCK_ITEMS = [
     slug: "knipex-cobra-pliers-are-my-everyday-heroes",
     title: "Knipex Cobra Pliers Are My Everyday Heroes",
     category: "",
+    description: "There's something deeply satisfying about a tool that just works. The Knipex Cobra plier wrenches have earned permanent real estate in my pocket because they tackle everything you throw at them with Germanic precision. They're the kind of tool that makes you wonder how you survived without them.",
+    image: "images/generated/knipex-cobra-pliers-are-my-everyday-heroes-bbb062b7.jpeg",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=knipex-cobra-pliers-are-my-everyday-heroes",
+    detailLabel: "More from me"
+  },
+  {
+    slug: "knipex-cobra-pliers-are-my-everyday-heroes",
+    title: "Knipex Cobra Pliers Are My Everyday Heroes",
+    category: "",
     description: "There's something deeply satisfying about a tool that just works. The Knipex Cobra plier wrenches have earned permanent real estate in my pocket because they tackle everything from stubborn jar lids to impromptu repairs with Germanic precision. They're the kind of tool that makes you wonder how you survived without them.",
     image: "images/generated/knipex-cobra-pliers-are-my-everyday-heroes-dafc1b2b.jpeg",
     imageAspect: "landscape",
