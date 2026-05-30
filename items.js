@@ -8,7 +8,7 @@ window.POWERDUCK_ITEMS = [
     imageAspect: "landscape",
     imageFit: "contain",
     buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=kalimotxo-the-red-wine-cola-miracle",
+    detailUrl: "",
     detailLabel: "More from me"
   },
   {
