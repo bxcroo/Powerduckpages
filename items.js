@@ -12,18 +12,6 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    slug: "kalimotxo-the-red-wine-cola-miracle",
-    title: "Kalimotxo: The Red Wine & Cola Miracle",
-    category: "",
-    description: "You might raise an eyebrow when I tell you it's half red wine, half cola, but hold your judgement. This is Kalimotxo, a drink that has fuelled a thousand beach parties, teenage rebellions, and lazy afternoons across Spain. It's cheap, it's refreshing, and it's a miracle of mismatched ingredients that somehow just works.\n\nBorn in the Basque Country in the early '70s, kalimotxo started as a joke between two friends at a festival and ended up as a national treasure. No fancy mixology, no expensive bottles... just overpowered cheap red wine softened by the sticky sweetness of cola.",
-    image: "images/generated/kalimotxo-the-red-wine-cola-miracle-9f56a18e.jpg",
-    imageAspect: "landscape",
-    imageFit: "contain",
-    buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=kalimotxo-the-red-wine-cola-miracle",
-    detailLabel: "More from me"
-  },
-  {
     slug: "dremel-8240-the-swiss-army-knife-that-spins",
     title: "Dremel 8240: The Swiss Army Knife That Spins",
     category: "Gear",
