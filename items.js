@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "the-m1-macbook-air-still-the-king-in-2026",
+    title: "The M1 MacBook Air: Still the King in 2026",
+    category: "",
+    description: "The 2020 MacBook Air with Apple's M1 chip was a game changer then, but here's the thing: it's still a game changer now. In a world of M2s and M3s.. M4s etc... as of 2026, this fanless wonder keeps chugging along with stellar battery life, a great keyboard, and enough power for 90% of what people actually do. I've been using mine daily since launch, and it feels just as modern as the day I unboxed it.",
+    image: "images/generated/the-m1-macbook-air-still-the-king-in-2026-d0e7b9ef.jpg",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=the-m1-macbook-air-still-the-king-in-2026",
+    detailLabel: "More from me"
+  },
+  {
     slug: "steam-controller-evolved-the-ultimate-pc-companion",
     title: "Steam Controller Evolved: The Ultimate PC Companion",
     category: "",
