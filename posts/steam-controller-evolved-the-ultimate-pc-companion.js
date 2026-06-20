@@ -1,0 +1,15 @@
+window.POWERDUCK_POST = {
+  slug: "steam-controller-evolved-the-ultimate-pc-companion",
+  title: "Steam Controller Evolved: The Ultimate PC Companion",
+  subtitle: "Ergonomics, back buttons, and deeper Steam integration make this a worthy rival to the DualSense.",
+  description: "There’s a controller out there that feels like it was custom molded for your hands. It’s got haptics that hum with intention, back buttons that beg to be bound, and thumbsticks that glide like TMR magic. The trackpads? Still there, still weird, still wonderful. Gyros for the aiming elite. Battery life that laughs at the DualSense’s candle flame.\n\nBut here’s the rub: it lives and breathes Steam. Launch through Big Picture or don’t launch at all. That’s the price of admission. For some, that’s a dealbreaker. For others, it’s the final piece of a perfectly tuned PC gaming shrine.\n\nThis isn’t a review  it’s a love letter to a controller that finally got it right, even if it locked itself inside Valve’s garden.",
+  body: "First, the feel. Pick this thing up and you know immediately it wasn’t designed by a committee. The grips curve exactly where your fingers want to rest. The back buttons sit under your middle and ring fingers, not your pathetic pinkies. They click with a reassuring snap – not mushy, not hair-trigger. You can map jump, crouch, reload, anything, without ever leaving the sticks.\n\nAnd those sticks. Hall effect is old news – these are TMR (tunneling magnetoresistance) sensors. They’re smoother, more precise, immune to drift. Combined with the haptics (which are tighter and more directional than the DualSense’s rumbling bass), aiming feels like a direct neural link. The trackpads? Still divisive. But for desktop navigation or radial menus in strategy games, nothing beats them. Gyro tilts for flick shots? Yes.\n\nBattery life is the silent killer here. Sixty hours? Eighty? I lost count. Meanwhile my DualSense gasps for air after six hours of Astro’s Playroom. The controller is built like a tank, too. No creaking plastic, no wobbling D-pad. Just solid, dense, premium.\n\nBut... and this is a big but;  it’s tethered to Steam. Want to play Epic Games titles? Add them as non-Steam games. Game Pass? Same dance. For the purist who lives in Steam, it’s seamless. For the eclectic gamer? It’s a chore. No native Bluetooth pairing outside of Steam’s wrapper. No handy Xbox-style guide button that works everywhere. You’re in the ecosystem or you’re out.\n\nI wouldn’t trade it for a DualSense. The DualSense is a brilliant console controller forced into PC duty. This is a PC controller that knows exactly what it is. If you can live with the Steam lock-in, you’ll never look back.",
+  image: "images/generated/steam-controller-evolved-the-ultimate-pc-companion-06e3b0cb.jpg",
+  imageAlt: "Steam Controller Evolved: The Ultimate PC Companion",
+  imageAspect: "landscape",
+  imageFit: "contain",
+  buttonLabel: "Go and See",
+  detailLabel: "More from me",
+  category: "",
+  url: ""
+};
