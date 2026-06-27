@@ -12,18 +12,6 @@ window.POWERDUCK_ITEMS = [
     detailLabel: "More from me"
   },
   {
-    slug: "steam-controller-evolved-the-ultimate-pc-companion",
-    title: "Steam Controller Evolved: The Ultimate PC Companion",
-    category: "",
-    description: "There’s a controller out there that feels like it was custom molded for your hands. It’s got haptics that hum with intention, back buttons that beg to be bound, and thumbsticks that glide like TMR magic. The trackpads? Still there, still weird, still wonderful. Gyros for the aiming elite. Battery life that laughs at the DualSense’s candle flame.\n\nBut here’s the rub: it lives and breathes Steam. Launch through Big Picture or don’t launch at all. That’s the price of admission. For some, that’s a dealbreaker. For others, it’s the final piece of a perfectly tuned PC gaming shrine.\n\nThis isn’t a review  it’s a love letter to a controller that finally got it right, even if it locked itself inside Valve’s garden.",
-    image: "images/generated/steam-controller-evolved-the-ultimate-pc-companion-06e3b0cb.jpg",
-    imageAspect: "landscape",
-    imageFit: "contain",
-    buttonLabel: "Go and See",
-    detailUrl: "post.html?slug=steam-controller-evolved-the-ultimate-pc-companion",
-    detailLabel: "More from me"
-  },
-  {
     slug: "dremel-8240-the-swiss-army-knife-that-spins",
     title: "Dremel 8240: The Swiss Army Knife That Spins",
     category: "Gear",
