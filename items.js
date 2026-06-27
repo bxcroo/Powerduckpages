@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "g502-x-plus-the-mouse-i-keep-coming-back-to",
+    title: "G502 X Plus: The Mouse I Keep Coming Back To",
+    category: "",
+    description: "I've been buying G502 derivatives since they first launched. I burn through mice like they're going out of style, and I just retired another grimy G502 for the new G502 X Plus. The removable weights are gone, but they've finally added USB-C, and I'm shocked at how much lighter it feels. The soft rubbery side grips also seem like they might actually outlast the old ones.\n\nSetup is a mild pain if you're on Linux. Logitech's software is garbage even on Windows, but at least it exists. On Linux, you're out of luck for the initial config. I had to borrow my MacBook Air to set up my DPI and button profiles, then save them on the mouse. It's a few extra steps, but worth it to avoid Microsoft's nonsense.",
+    image: "images/generated/g502-x-plus-the-mouse-i-keep-coming-back-to-fe4036be.png",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=g502-x-plus-the-mouse-i-keep-coming-back-to",
+    detailLabel: "More from me"
+  },
+  {
     slug: "the-m1-macbook-air-still-the-king-in-2026",
     title: "The M1 MacBook Air: Still the King in 2026",
     category: "",
