@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "kenshi-welcome-to-the-grind-you-beautiful-piece-of-shit",
+    title: "Kenshi: Welcome to the Grind, You Beautiful Piece of Shit",
+    category: "",
+    description: "This is a love letter to the grind. The solo wanderer who becomes a cybernetic one-man army. Or just gets enslaved... or eaten by Spiders, or Beak Things, or Cannibals, or Fog men... Or maybe the squad of misfits who survive long enough to build a wall around their copper mine? Kenshi is ugly, janky, drops frames like you wouldn't believe has annoyingly frequent sudden load pauses and honestly just runs like shit... and it's absolutely brilliant. It teaches you that failure isn't a game-over—it's a lesson in toughness.",
+    image: "images/generated/kenshi-welcome-to-the-grind-you-beautiful-piece-of-shit-176bd7e5.png",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=kenshi-welcome-to-the-grind-you-beautiful-piece-of-shit",
+    detailLabel: "More from me"
+  },
+  {
     slug: "the-m1-macbook-air-still-the-king-in-2026",
     title: "The M1 MacBook Air: Still the King in 2026?",
     category: "",
