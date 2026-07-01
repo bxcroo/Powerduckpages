@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "deepseek-v4-flash-vs-claude-opus-4-8-direct-comparison",
+    title: "DeepSeek V4 Flash vs Claude Opus 4.8: A Direct Comparison",
+    category: "Tech",
+    description: "I ran the same gauntlet of 12 prompts — factual myths, Python bugs, logic puzzles, Fermi estimates, a P≠NP proof request — through DeepSeek V4 Flash (my homelab AI, ~$0.0006 per run) and Claude Opus 4.8 (~$0.09 per run). The gap is 146x. The quality gap? Much smaller than that.",
+    image: "",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Read It",
+    detailUrl: "post.html?slug=deepseek-v4-flash-vs-claude-opus-4-8-direct-comparison",
+    detailLabel: "More from me"
+  },
+  {
     slug: "kenshi-welcome-to-the-grind-you-beautiful-piece-of-shit",
     title: "Kenshi: Welcome to the Grind, You Beautiful Piece of Shit",
     category: "",
