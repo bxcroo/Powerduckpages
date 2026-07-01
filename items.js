@@ -1,17 +1,5 @@
 window.POWERDUCK_ITEMS = [
   {
-    slug: "deepseek-v4-flash-vs-claude-opus-4-8-direct-comparison",
-    title: "DeepSeek V4 Flash vs Claude Opus 4.8: A Direct Comparison",
-    category: "Tech",
-    description: "I ran the same gauntlet of 12 prompts — factual myths, Python bugs, logic puzzles, Fermi estimates, a P≠NP proof request — through DeepSeek V4 Flash (my homelab AI, ~$0.0006 per run) and Claude Opus 4.8 (~$0.09 per run). The gap is 146x. The quality gap? Much smaller than that.",
-    image: "",
-    imageAspect: "landscape",
-    imageFit: "contain",
-    buttonLabel: "Read It",
-    detailUrl: "post.html?slug=deepseek-v4-flash-vs-claude-opus-4-8-direct-comparison",
-    detailLabel: "More from me"
-  },
-  {
     slug: "kenshi-welcome-to-the-grind-you-beautiful-piece-of-shit",
     title: "Kenshi: Welcome to the Grind, You Beautiful Piece of Shit",
     category: "",
@@ -400,19 +388,6 @@ window.POWERDUCK_ITEMS = [
     imageAspect: "landscape",
     imageFit: "contain",
     detailUrl: "post.html?slug=gear-milwaukee-fastback",
-    detailLabel: "More from me"
-  },
-  {
-    title: "Victorinox Fibrox Knives",
-    category: "Gear",
-    description: "Five hundred dollar Japanese steel knives still go dull. Steel is steel. Physics is physics. And marketing is marketing. Fibrox knives skip the fairy tales and get straight to being actually good. Cheap enough that you won't mind banging it through bones but so sharp that you'd better not forget you're also made of meat. The handles are where the magic is. They're grippy, comfy, non porous and seamless so easy to clean! They're designed for hands that are actually doing work rather than posing beside some artisanal bullshit for social media. It’s pure bang-for-buck function. No mythology, no ego, just a knife that does the job every single day.",
-    image: "images/generated/gear-victorinox-fibrox-knives-489b8ecf.png",
-    url: "https://www.victorinox.com/en/Products/Cutlery/Chef's-Knives/Fibrox-Chef%E2%80%99s-Knife/p/5.2003.31B",
-    buttonLabel: "Go and See",
-    slug: "gear-victorinox-fibrox-knives",
-    imageAspect: "landscape",
-    imageFit: "contain",
-    detailUrl: "post.html?slug=gear-victorinox-fibrox-knives",
     detailLabel: "More from me"
   }
 ];
