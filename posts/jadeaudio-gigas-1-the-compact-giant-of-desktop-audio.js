@@ -1,0 +1,15 @@
+window.POWERDUCK_POST = {
+  slug: "jadeaudio-gigas-1-the-compact-giant-of-desktop-audio",
+  title: "JadeAudio GIGAS 1: The Compact Giant of Desktop Audio",
+  subtitle: "A high-power, affordable headphone amplifier built to breathe life into your planar headphones.",
+  description: "The JadeAudio GIGAS 1 is a compact desktop headphone amplifier that shatters the myth that high output power must come with a high price tag. Born from the need to properly drive FIIO's JT7 planar headphones and other low-sensitivity full-size cans, the GIGAS series draws its name from the Greek word for \"giant\"—and it lives up to that promise. With a discrete Class AB transistor current-amplification circuit and a massive 4600mW per channel balanced output, this little box turns your demanding headphones into thunderous, detailed performers.\n\nBut don't let its power fool you—it's built for flexibility too. Dual inputs (3.5mm and RCA) and dual outputs (3.5mm single-ended with mic passthrough and 4.4mm balanced) mean it slips into any setup, from a HiFi stack to a gaming rig. And with 5V/12V PD power supply support, it's as practical as it is potent.",
+  body: "The GIGAS 1 isn't just another amplifier—it's a declaration. When FIIO dropped the JT7 planar headphones, they knew most affordable gear would leave them gasping for air. So they built this: a desktop amp that delivers 4600mW+4600mW into balanced loads, enough to turn even the most stubborn planars into roaring, articulate beasts. The secret? A discrete op-amp + transistor current-amplification design using onsemi's legendary MJE243G/253G transistors. It's old-school engineering with modern efficiency, running cool under pressure.\n\nSound-wise, expect a smooth, natural, and melodious character—no harshness, no sterile precision. The GIGAS 1 leans into warmth and body, giving your music a live, tactile presence. Whether you're a planar headphone enthusiast, a budding HiFi explorer, or a gamer who wants to hear every footstep with authority, this amp meets you where you are.\n\nConnectivity is a highlight, not an afterthought. The 3.5mm input accepts signals from DAPs, smartphones, or PCs, while the RCA input links to CD players or DACs. On the output side, you get a 3.5mm jack with CTIA mic passthrough (perfect for gaming chat) and a 4.4mm balanced output for pure, differential audio. Two gain settings (high/low) let you match sensitivity to any headphone, from ultra-efficient IEMs to power-hungry planars.\n\nAnd the power supply? It's as flexible as the inputs. USB-C PD at 5V or 12V means you can run it off a laptop adapter, a phone charger, or a dedicated power bank. No wall wart headaches. All this in a chassis small enough to vanish beside your monitor. The GIGAS 1 is proof that big sound doesn't need big compromises—or a big budget.",
+  image: "images/generated/jadeaudio-gigas-1-the-compact-giant-of-desktop-audio-b6f66b95.png",
+  imageAlt: "JadeAudio GIGAS 1: The Compact Giant of Desktop Audio",
+  imageAspect: "landscape",
+  imageFit: "contain",
+  buttonLabel: "Go and See",
+  detailLabel: "More from me",
+  category: "",
+  url: ""
+};
