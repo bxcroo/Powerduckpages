@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "the-fractal-torrent-air-coolings-final-form",
+    title: "The Fractal Torrent: Air Cooling's Final Form",
+    category: "",
+    description: "The Fractal Torrent case isn't just another box for your components—it's a statement. It was built from the ground up for air flow, and it consistently top 5's every PC builder's list for convenience and thermal performance. But this isn't another 'review' that sings the same tired praises. It's a confession. A manifesto. An ode to the dirty great big air cooler, and the quiet, loyal companion it is.",
+    image: "images/generated/the-fractal-torrent-air-coolings-final-form-7d7e6861.png",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=the-fractal-torrent-air-coolings-final-form",
+    detailLabel: "More from me"
+  },
+  {
     slug: "the-victorinox-rex-peeler-a-humble-masterpiece",
     title: "The Victorinox REX Peeler: A Humble Masterpiece",
     category: "",
