@@ -1,5 +1,16 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "the-victorinox-rex-peeler-a-humble-masterpiece",
+    title: "The Victorinox REX Peeler: A Humble Masterpiece",
+    category: "",
+    description: "I'm a sucker for the little things. Not the flashy gadgets that gather dust, but the quiet, workhorse objects that make daily life genuinely easier. Enter the Victorinox REX Peeler. It costs less than a takeout coffee(?), yet it's built with the same Swiss precision that makes their pocket knives legendary. It peels. It doesn't screw around. It gets the job done and you'll wonder why you bothered with other miserable shit peelers.",
+    image: "images/generated/the-victorinox-rex-peeler-a-humble-masterpiece-adcec511.png",
+    imageAspect: "landscape",
+    imageFit: "contain",
+    detailUrl: "post.html?slug=the-victorinox-rex-peeler-a-humble-masterpiece",
+    detailLabel: "More from me"
+  },
+  {
     slug: "jadeaudio-gigas-1-the-compact-giant-of-desktop-audio",
     title: "JadeAudio GIGAS 1: The Compact Giant of Desktop Audio",
     category: "",
