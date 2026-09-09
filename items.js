@@ -1,5 +1,17 @@
 window.POWERDUCK_ITEMS = [
   {
+    slug: "why-omarchy-stole-my-heart",
+    title: "Why Omarchy Stole My Heart",
+    category: "",
+    description: "I made the jump from Windows to CachyOS and now, I've landed on Omarchy. What started as curiosity turned into a full blown obsession with clean, consistent design and a keyboard driven workflow. I've embraced ditching the mouse and not looking back! (But, if you're not ready for that, Omarchy lets you mouse too!)",
+    image: "images/generated/why-omarchy-stole-my-heart-2598b38c.png",
+    imageAspect: "landscape",
+    imageFit: "cover",
+    buttonLabel: "Go and See",
+    detailUrl: "post.html?slug=why-omarchy-stole-my-heart",
+    detailLabel: "More from me"
+  },
+  {
     slug: "the-fractal-torrent-air-coolings-final-form",
     title: "The Fractal Torrent: Air Cooling's Final Form",
     category: "",
